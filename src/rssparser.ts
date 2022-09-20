@@ -1,4 +1,4 @@
-import { parseFeed } from "https://deno.land/x/rss/mod.ts";
+import { parseFeed } from "https://deno.land/x/rss@0.5.6/mod.ts";
 import { FeedEntry } from "https://deno.land/x/rss@0.5.6/src/types/feed.ts";
 import { createHash } from "https://deno.land/std@0.91.0/hash/mod.ts";
 
